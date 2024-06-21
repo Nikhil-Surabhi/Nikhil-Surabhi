@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil-Surabhi and I'm a software developer and I have designed two applications - Laundry Wheel and WorkflowSim, Please check them out :).
+- 👋 Hi, I’m @Nikhil-Surabhi and I'm a software developer and I have designed two applications - Laundry Wheel and WorkflowSim, Please check them out :)
 - 👀 I’m interested in UI and Backend development
 - 🌱 I’m currently learning Machine Learning Models
 - 💞️ I’m looking to collaborate on AI technologies and ideas around it
